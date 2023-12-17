@@ -1,5 +1,6 @@
 # Borusan Otonu Seç
 
+Demo: https://www.youtube.com/watch?v=FEeavYSNqPg
 
 ## Kurulum
 
@@ -20,4 +21,17 @@ cd borusan-otonu-sec
 ### Frontend Kurulumu
 
 npm install ile gerekli paketleri kurun.
+npm run dev ile React uygulamasını çalıştırın.
 
+### Backend Kurulumu
+
+backend klasörü içindeki app.py uygulamasını çalıştırın.
+
+```bash
+cd backend
+python app.py
+```
+
+### Konfigürasyon
+
+Ana dosya yolundaki .env dosyasına OpenAI API keyinizi ekleyin.
