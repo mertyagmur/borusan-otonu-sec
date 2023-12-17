@@ -18,6 +18,12 @@ git clone https://github.com/mertyagmur/borusan-otonu-sec.git
 
 cd borusan-otonu-sec
 ```
+### Python paketlerini kurun
+
+```bash
+pip install -r requirements.txt
+```
+
 ### Frontend Kurulumu
 
 npm install ile gerekli paketleri kurun.
