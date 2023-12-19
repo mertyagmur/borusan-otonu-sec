@@ -1,6 +1,5 @@
 # Borusan Otonu Seç
 
-Demo: https://www.youtube.com/watch?v=FEeavYSNqPg
 
 ## Kurulum
 
